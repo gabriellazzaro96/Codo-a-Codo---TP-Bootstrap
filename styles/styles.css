@@ -1,0 +1,9 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.presentacion {
+    background-image: url(../img/ba1.jpg);
+    background: black;
+}
